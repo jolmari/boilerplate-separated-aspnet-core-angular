@@ -18,5 +18,6 @@ ASP.NET Core backends.
 ## Quick start
 1. Open the Backend.sln solution in Visual Studio 2017
 2. Open command line & navigate to .\apps\sample-app
+3. Execute "npm install" to install dependencies
 3. Execute "ng build" on the command line. Wait until build is finished.
 4. Ctrl + F5 in visual studio
